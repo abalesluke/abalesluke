@@ -4,9 +4,10 @@
 </a>
 
 <a>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&theme=radical">
+ <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=abalesluke&show_icons=true&theme=radical">
+</a>
+<a>
+ <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&theme=radical">
 </a>
 
-<a>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=abalesluke&show_icons=true&theme=radical">
-</a>
+
