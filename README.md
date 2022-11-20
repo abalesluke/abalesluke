@@ -9,5 +9,7 @@
 <a>
  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&theme=radical">
 </a>
-
+<a href="https://github.com/abalesluke/Ninja-PSW">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abalesluke&repo=Ninja-PSW&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a> 
 
