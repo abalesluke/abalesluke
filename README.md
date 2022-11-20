@@ -1,2 +1,1 @@
-![Banner](https://github.com/abalesluke/abalesluke/blob/main/images/anikinluke_junior_dev_pentester.png?raw=true)
-
+<img src="https://github.com/abalesluke/abalesluke/blob/main/image.png?raw=true" width="500">
