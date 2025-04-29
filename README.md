@@ -1,20 +1,91 @@
-<img align="left" src="https://github.com/abalesluke/abalesluke/blob/main/image.png?raw=true" width="450">
-<a href="https://app.daily.dev/AL104_Ninja">
-  <img align="right" src="https://api.daily.dev/devcards/3620b7d20bce465e9c56666a746435bf.png?r=s9m" width="300" alt="Anikin Luke Abales's Dev Card"/>
-</a>
+```
+╱╱╱╭╮╱╱╱╱╭╮╱╱╱╱╱╱╭╮╱╱╱╭╮
+╱╱╱┃┃╱╱╱╱┃┃╱╱╱╱╱╱┃┃╱╱╱┃┃           time is a wound
+╭━━┫╰━┳━━┫┃╭━━┳━━┫┃╭╮╭┫┃╭┳━━╮       and we are the scars
+┃╭╮┃╭╮┃╭╮┃┃┃┃━┫━━┫┃┃┃┃┃╰╯┫┃━┫        and we never heal
+┃╭╮┃╰╯┃╭╮┃╰┫┃━╋━━┃╰┫╰╯┃╭╮┫┃━┫
+╰╯╰┻━━┻╯╰┻━┻━━┻━━┻━┻━━┻╯╰┻━━╯
 
-<br>
-<a href="https://anikinlukeabales.ninja">
-  <img src="https://github-profile-trophy.vercel.app/?username=abalesluke&theme=onedark" width="450" align="left">
-</a>
+▄▀█ █▄▄ ▄▀█ █░░ █▀▀ █▀ █░░ █░█ █▄▀ █▀▀
+█▀█ █▄█ █▀█ █▄▄ ██▄ ▄█ █▄▄ █▄█ █░█ ██▄
+build, break, repeat - nothing is ever done - and nothing ever matters
+```
 
-<a>
- <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=abalesluke&show_icons=true&theme=radical">
-</a>
-<a>
- <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&theme=radical">
-</a>
-<a href="https://github.com/abalesluke/Ninja-PSW">
-  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=abalesluke&repo=Ninja-PSW&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
-</a> 
+# 🥷 Haxinja 
 
+**Anikin Luke**  
+writes code  
+mostly in silence  
+sometimes in doubt  
+
+---
+
+> *🌒 "What compiles today will confuse tomorrow.*
+
+---
+
+## 🧩 Fragments 
+
+```yaml
+alias: haxinja
+name: Anikin Luke
+location: somewhere between /dev/null and $HOME
+state: mentally unstable
+```
+
+---
+
+## 🧷 habits 
+
+```bash
+# not all who loop are lost
+alias wake='echo "again."'
+alias clear='printf "\033c"'
+alias disappear='logout'
+```
+
+---
+
+## ⚙️ current 
+
+- fixing what I once wrote  
+- building what might break  
+- learning what I forgot  
+
+> *🪫 "If it works, it’s fragile. If it fails, it’s honest."*
+
+---
+
+## 📜 lament
+- everything breaks eventually  
+- bugs outlive intentions  
+- legacy is just unmaintained code  
+- and comments lie  
+> *🕯️ "Even the cleanest logic ends in decay."*
+
+---
+
+## 📞 contact
+
+```text
+no status  
+no presence  
+speak if it matters  
+i'll hear it eventually  
+```
+
+---
+
+```
+ᶠᶸᶜᵏᵧₒᵤ!
+things fall apart and leave no trace
+ִֶָ. ..𓂃 ࣪ ִֶָ🦇་༘࿐
+nothing lasts, but some things endure
+```
+
+---
+## 🪶 🃜 🃚 🃖 🃁 🂭 🂺
+>  no big plans  
+> no big words  
+> just code  
+> and a little persistence
