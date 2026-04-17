@@ -1,91 +1,29 @@
-```
-╱╱╱╭╮╱╱╱╱╭╮╱╱╱╱╱╱╭╮╱╱╱╭╮
-╱╱╱┃┃╱╱╱╱┃┃╱╱╱╱╱╱┃┃╱╱╱┃┃           time is a wound
-╭━━┫╰━┳━━┫┃╭━━┳━━┫┃╭╮╭┫┃╭┳━━╮       and we are the scars
-┃╭╮┃╭╮┃╭╮┃┃┃┃━┫━━┫┃┃┃┃┃╰╯┫┃━┫        and we never heal
-┃╭╮┃╰╯┃╭╮┃╰┫┃━╋━━┃╰┫╰╯┃╭╮┫┃━┫
-╰╯╰┻━━┻╯╰┻━┻━━┻━━┻━┻━━┻╯╰┻━━╯
+<div align="center">
 
-▄▀█ █▄▄ ▄▀█ █░░ █▀▀ █▀ █░░ █░█ █▄▀ █▀▀
-█▀█ █▄█ █▀█ █▄▄ ██▄ ▄█ █▄▄ █▄█ █░█ ██▄
-build, break, repeat - nothing is ever done - and nothing ever matters
-```
+<img src="https://i.pinimg.com/originals/4b/fd/1a/4bfd1a7f0d9ae87669996a03074e9e8b.gif" height="30%" width="100%" />
 
-# 🥷 Haxinja 
+<br/>
 
-**Anikin Luke**  
-writes code  
-mostly in silence  
-sometimes in doubt  
+# a̴͠b̷̓ä̶́l̷͆ȇ̶ṡ̴l̷̍ǘ̴k̴̐ė̶
 
----
+**systems** • **Full-stack** • **Interfaces**
 
-> *🌒 "What compiles today will confuse tomorrow.*
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,astro,ts,js,html,css,sass,less,tailwind,bootstrap,materialui&perline=15" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,bun,php,laravel,fastapi,django,flask,rails,spring,graphql,apollo&perline=14" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,sequelize,firebase,supabase,dynamodb,cassandra&perline=11" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,vercel,netlify,aws,gcp,azure,cloudflare,terraform&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,bash,vim,neovim,vscode,visualstudio,idea,webstorm&perline=12" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,go,rust,cpp,c,cs,swift,dart,ruby,php&perline=12" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender,unity,unreal,threejs,opencv,tensorflow,pytorch&perline=11" />
 
-## 🧩 Fragments 
-
-```yaml
-alias: haxinja
-name: Anikin Luke
-location: somewhere between /dev/null and $HOME
-state: mentally unstable
-```
+</div>
 
 ---
-
-## 🧷 habits 
-
-```bash
-# not all who loop are lost
-alias wake='echo "again."'
-alias clear='printf "\033c"'
-alias disappear='logout'
-```
-
----
-
-## ⚙️ current 
-
-- fixing what I once wrote  
-- building what might break  
-- learning what I forgot  
-
-> *🪫 "If it works, it’s fragile. If it fails, it’s honest."*
-
----
-
-## 📜 lament
-- everything breaks eventually  
-- bugs outlive intentions  
-- legacy is just unmaintained code  
-- and comments lie  
-> *🕯️ "Even the cleanest logic ends in decay."*
-
----
-
-## 📞 contact
-
-```text
-no status  
-no presence  
-speak if it matters  
-i'll hear it eventually  
-```
-
----
-
-```
-ᶠᶸᶜᵏᵧₒᵤ!
-things fall apart and leave no trace
-ִֶָ. ..𓂃 ࣪ ִֶָ🦇་༘࿐
-nothing lasts, but some things endure
-```
-
----
-## 🪶 🃜 🃚 🃖 🃁 🂭 🂺
->  no big plans  
-> no big words  
-> just code  
-> and a little persistence
